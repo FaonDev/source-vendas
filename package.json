@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^8.1.0",
+    "canvas": "^2.11.0",
+    "discord.js": "^14.7.1",
+    "djs-template-gen": "^1.0.10",
+    "gpix": "^1.1.8",
+    "quick.db": "^9.0.8",
+    "randomstring": "^1.2.3"
+  }
+}
